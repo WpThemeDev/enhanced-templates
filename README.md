@@ -1,12 +1,12 @@
-# Xidipity Enhanced Templates
+# Xidipity Templates
 
 Templates are a key design element to the Xidipity WordPress theme. They extend the functionality of the theme and are presented in a manner which permits a high level of customization. 
 
 Enhanced templates include a header which contains instructions on how to use the template. The template names follow the following format.
 
-## typology
+## typology (typ)
 
-taYYMMDD-XXX annotation
+typ-a-YYMMDD-XXX annotation
 
 - 001 - annotation / attribution
 - 005 - annotation / author
@@ -19,7 +19,7 @@ taYYMMDD-XXX annotation
 - 040 - annotation / skill
 - 045 - annotation / warning
 
-trYYMMDD-XXX emblem rules
+typ-r-YYMMDD-XXX emblem rules
 
 - 001 - emblem rule / double / shaded / full width / large icon centered
 - 005 - emblem rule / gradient / standard width / large icon centered
@@ -29,7 +29,7 @@ trYYMMDD-XXX emblem rules
 - 025 - emblem rule / standard / narrow width / icon center
 - 030 - emblem rule / standard / standard width / icon center
 
-thYYMMDD-XXX headers
+typ-h-YYMMDD-XXX headers
 
 - 001 - header / design
 - 005 - header / installation
@@ -39,16 +39,16 @@ thYYMMDD-XXX headers
 - 025 - header / tutorial
 - 030 - header / use case
 
-## wrapper
+## wrapper (wra)
 
-wdYYMMDD-XXX database
+wra-d-YYMMDD-XXX database
 
 - 001 - db / blog / list 
 - 005 - db / blog / summary
 - 010 - db / category / list
 - 015 - db / page / list
 
-wgYYMMDD-XXX general
+wra-g-YYMMDD-XXX general
 
 - 001 -general /  adsense/  widget
 - 014 - general / embedded / javascript
@@ -66,7 +66,7 @@ wgYYMMDD-XXX general
 - 011 - general / table / two column
 
 
-wvYYMMDD-XXX video
+wra-v-YYMMDD-XXX video
 
 - 001 - facebook
 - 002 - facebook / caption
@@ -83,3 +83,12 @@ wvYYMMDD-XXX video
 - 013 - youtube / half width / right
 - 014 - youtube / half width / right / caption
 
+
+
+### Images (img)
+
+img-i-YYMMDD-XXX icon
+
+### Development
+
+target name
