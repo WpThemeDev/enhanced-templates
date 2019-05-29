@@ -5,90 +5,65 @@ Templates are a key design element to the Xidipity WordPress theme. They extend 
 Enhanced templates include a header which contains instructions on how to use the template. The template names follow the following format.
 
 ## typology (typ)
-
+#### Annotations
 typ-a-YYMMDD-XXX annotation
 
-- 001 - annotation / attribution
-- 005 - annotation / author
-- 010 - annotation / favorite
-- 015 - annotation / help
-- 020 - annotation / image
-- 025 - annotation / info
-- 030 - annotation / read more
-- 035 - annotation / screenshot
-- 040 - annotation / skill
-- 045 - annotation / warning
-
+#### Rules
 typ-r-YYMMDD-XXX emblem rules
 
-- 001 - emblem rule / double / shaded / full width / large icon centered
-- 005 - emblem rule / gradient / standard width / large icon centered
-- 010 - emblem rule / standard / full width / icon & title centered
-- 015 - emblem rule / standard / full width / icon & title left
-- 020 - emblem rule / standard / full width / icon & title right
-- 025 - emblem rule / standard / narrow width / icon center
-- 030 - emblem rule / standard / standard width / icon center
-
+#### Headers
 typ-h-YYMMDD-XXX headers
 
-- 001 - header / design
-- 005 - header / installation
-- 010 - header / instruction
-- 015 - header / template
-- 020 - header / tools
-- 025 - header / tutorial
-- 030 - header / use case
-
 ## wrapper (wra)
-
+#### Data
 wra-d-YYMMDD-XXX database
 
-- 001 - db / blog / list 
-- 005 - db / blog / summary
-- 010 - db / category / list
-- 015 - db / page / list
-
+#### General
 wra-g-YYMMDD-XXX general
+- wra-g-190528-001.html Template: button/default
+- wra-g-190528-002.html Template: button/solid
+- wra-g-190528-003.html Template: button/outline
 
-- 001 -general /  adsense/  widget
-- 014 - general / embedded / javascript
-- 002 - general / font awesome / glyph
-- 003 - general / footnote
-- 004 - general / gallery / category
-- 005 - general / gallery / product
-- 013 - general / container
-- 006 - general / gist
-- 007 - general / list / description
-- 008 - general / list / font awesome
-- 009 - general / page break
-- 010 - general / slider
-- 012 - general / table / responsive
-- 011 - general / table / two column
-
-
+#### Video
 wra-v-YYMMDD-XXX video
 
-- 001 - facebook
-- 002 - facebook / caption
-- 003 - html5
-- 004 - html5 / caption
-- 005 - vimeo
-- 006 - vimeo / caption
-- 007 - vimeo / full screen
-- 008 - youtube / full screen
-- 009 - youtube / full width
-- 010 - youtube / full width / caption
-- 011 - youtube / half width / left
-- 012 - youtube / half width / left / caption
-- 013 - youtube / half width / right
-- 014 - youtube / half width / right / caption
-
-
-
 ### Images (img)
-
 img-i-YYMMDD-XXX icon
+- img-i-190526-001.html Template: fa-icon/newspaper
+- img-i-190526-002.html Template: fa-icon/film
+- img-i-190526-003.html Template: fa-icon/twitter
+- img-i-190526-004.html Template: fa-icon/bookmark
+- img-i-190526-005.html Template: fa-icon/comment-alt
+- img-i-190526-006.html Template: fa-icon/user-edit
+- img-i-190526-007.html Template: fa-icon/thumbs-up
+- img-i-190526-008.html Template: fa-icon/thumbs-down
+- img-i-190526-009.html Template: fa-icon/object-group
+- img-i-190526-010.html Template: fa-icon/object-ungroup
+- img-i-190526-011.html Template: fa-icon/image
+- img-i-190526-012.html Template: fa-icon/images
+- img-i-190526-013.html Template: fa-icon/shoe-prints
+- img-i-190526-014.html Template: fa-icon/bell
+- img-i-190526-015.html Template: fa-icon/print
+- img-i-190526-016.html Template: fa-icon/life-ring
+- img-i-190526-017.html Template: fa-icon/user-graduate
+- img-i-190526-018.html Template: fa-icon/external-link-square-alt
+- img-i-190526-019.html Template: fa-icon/sticky-note
+- img-i-190526-020.html Template: fa-icon/file-alt
+- img-i-190526-021.html Template: fa-icon/folder-open
+- img-i-190526-022.html Template: fa-icon/folder-open/solid
+- img-i-190526-023.html Template: fa-icon/question-circle
+- img-i-190526-024.html Template: fa-icon/exclamation-circle
+- img-i-190526-025.html Template: fa-icon/exclamation-triangle
+- img-i-190526-026.html Template: fa-icon/star
+- img-i-190526-027.html Template: fa-icon/star/solid
+- img-i-190526-028.html Template: fa-icon/award
+- img-i-190526-029.html Template: fa-icon/ribbon
+- img-i-190526-030.html Template: fa-icon/medal
+- img-i-190526-031.html Template: fa-icon/facebook-square
+- img-i-190526-032.html Template: fa-icon/youtube
 
 ### Development
+dev-t-YYMMDD-XXX
 
-target name
+
+
