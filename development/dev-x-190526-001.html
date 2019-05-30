@@ -1,0 +1,58 @@
+<!--
+Gist: dev-x-190526-001.html
+Template: twitter/img/text
+Description: Twitter content with image on the left, tweet on the right.
+Build: 90523.1
+Container Style:
+  div 1
+    block           - block format default (tailwind)
+    w-full          - width: 100% default (tailwind)
+    sm:table        - table format on non mobile (tailwind)
+  div 2
+    block           - block format default (tailwind)
+    sm:table row    - table row format on non mobile (tailwind)
+  div 3
+    block           - block format default (tailwind)
+    sm:table-cell   - table cell format on non mobile (tailwind)
+    sm:w-1/3        - width: 33.33333% on non mobile (tailwind)
+  div 4
+    block           - block format default (tailwind)
+    pt-2            - padding-top: .5rem default (tailwind)
+    sm:align-middle - vertical-align: middle on non mobile (tailwind)
+    sm:pl-3         - padding-left: .75rem on non mobile (tailwind)
+    sm:pt-0         - padding-top: 0 on non mobile (tailwind)
+    sm:table-cell   - table cell format on non mobile (tailwind)
+    sm:w-2/3        - width: 66.66667% on non mobile (tailwind)
+  Image Style
+    alignnone       - no alignment (wordpress)
+    h-auto          - height: auto (tailwind)
+    rounded         - border-radius: .25rem (tailwind)
+    size-full       - full size image (wordpress)
+    w-full          - width: 100% (tailwind)
+Arguments:
+  #IMG-LINK#        - Image link
+  #IMG-ALT#         - Alternate text for an image
+  #IMG-TITLE#       - Image title (mouse over content)
+  #CONTENT#         - Tweet content
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+v copy & paste template below v
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+    <!-- xt:twitter/img/text -->
+</p>
+<div class="block w-full sm:table">
+    <div class="block sm:table-row">
+        <div class="block sm:table-cell sm:w-1/3"><img class="alignnone h-auto rounded size-full w-full" src="#IMG-LINK#" alt="#IMG-ALT#" title="#IMG-TITLE#" /></div>
+        <div class="block pt-2 sm:align-middle sm:pl-3 sm:pt-0 sm:table-cell sm:w-2/3">
+            <p class="font-normal italic">#CONTENT#</p>
+        </div>
+    </div>
+</div>
+<p>
+    <!-- /xt:twitter/img/text -->
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
