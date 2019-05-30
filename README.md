@@ -63,7 +63,8 @@ img-i-YYMMDD-XXX icon
 - img-i-190526-032.html Template: fa-icon/youtube
 
 ### Development
-dev-t-YYMMDD-XXX
+dev-x-YYMMDD-XXX (experimental)
+- dev-x-190526-001.html Template: twitter/img/text
 
 
 
