@@ -4,25 +4,28 @@ Templates are a key design element to the Xidipity WordPress theme. They extend 
 
 Enhanced templates include a header which contains instructions on how to use the template. The template names follow the following format.
 
-## typology (typ)
+## Typography (typ)
 #### Annotations
 typ-a-YYMMDD-XXX annotation
-
-#### Rules
-typ-r-YYMMDD-XXX emblem rules
 
 #### Headers
 typ-h-YYMMDD-XXX headers
 
-## wrapper (wra)
+## Wrapper (wra)
+#### Button
+wra-g-YYMMDD-XXX general
+- wra-b-190528-001.html Template: button/default
+- wra-b-190528-002.html Template: button/solid
+- wra-b-190528-003.html Template: button/outline
+
 #### Data
 wra-d-YYMMDD-XXX database
 
 #### General
 wra-g-YYMMDD-XXX general
-- wra-g-190528-001.html Template: button/default
-- wra-g-190528-002.html Template: button/solid
-- wra-g-190528-003.html Template: button/outline
+
+#### Rules
+wra-r-YYMMDD-XXX emblem rules
 
 #### Video
 wra-v-YYMMDD-XXX video
