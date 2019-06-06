@@ -13,7 +13,7 @@ typ-h-YYMMDD-XXX headers
 
 ## Wrapper (wra)
 #### Button
-wra-g-YYMMDD-XXX general
+wra-b-YYMMDD-XXX button
 - wra-b-190528-001.html Template: button/default
 - wra-b-190528-002.html Template: button/solid
 - wra-b-190528-003.html Template: button/outline
